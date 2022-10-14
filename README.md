@@ -3,7 +3,7 @@
 Use of this project is that a user can search Github Profiles.\
 And the data of the profile is shown in a creative way using Charts(Bar, Column, Pie).
 
-For Charts I have user fusioncharts npm package.
+For Charts I have used fusioncharts npm package.
 
 ## Getting Started with Create React App
 
